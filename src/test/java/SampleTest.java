@@ -6,7 +6,7 @@ public class SampleTest {
     @Test
     public void verifyPOC() {
 
-        System.out.println("Final Octopus Deployment Release13");
+        System.out.println("Retest Octopus and Teamcity CICD");
 
         Assert.assertTrue(true);
     }
