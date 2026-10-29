@@ -6,7 +6,7 @@ public class SampleTest {
     @Test
     public void verifyPOC() {
 
-        System.out.println("Final Octopus Deployment Test1");
+        System.out.println("Final Octopus Deployment Test2");
 
         Assert.assertTrue(true);
     }
