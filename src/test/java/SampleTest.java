@@ -6,7 +6,7 @@ public class SampleTest {
     @Test
     public void verifyPOC() {
 
-        System.out.println("Automatic Trigger Test");
+        System.out.println("Final Octopus Deployment Test");
 
         Assert.assertTrue(true);
     }
