@@ -6,7 +6,7 @@ public class SampleTest {
     @Test
     public void verifyPOC() {
 
-        System.out.println("Retest Octopus and Teamcity CICD");
+        System.out.println("Retest Octopus and Teamcity CICD_VersionTest");
 
         Assert.assertTrue(true);
     }
