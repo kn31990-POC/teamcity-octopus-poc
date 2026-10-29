@@ -6,7 +6,7 @@ public class SampleTest {
     @Test
     public void verifyPOC() {
 
-        System.out.println("Maven Version SETUP_Test1 after changes.");
+        System.out.println("Maven Version SETUP_Test2 after changes.");
 
         Assert.assertTrue(true);
     }
