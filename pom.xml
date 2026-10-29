@@ -8,7 +8,7 @@
 
     <groupId>com.kishore.poc</groupId>
     <artifactId>teamcity-octopus-poc</artifactId>
-    <version>${revision}</version>
+    <version>1.0.${revision}</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
