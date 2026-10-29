@@ -6,7 +6,7 @@ public class SampleTest {
     @Test
     public void verifyPOC() {
 
-        System.out.println("Running TeamCity-Octopus POC V2");
+        System.out.println("Automatic Trigger Test");
 
         Assert.assertTrue(true);
     }
